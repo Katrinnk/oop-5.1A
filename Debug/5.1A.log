@@ -1,0 +1,8 @@
+﻿  Point.cpp
+Z:\university\ооп\програми\5.1A\Point.h(12,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+Z:\university\ооп\програми\5.1A\Point.h(24,82): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+Z:\university\ооп\програми\5.1A\Point.cpp(10,1): warning C5043: "Point::Point": спецификация исключения не соответствует предыдущему объявлению
+Z:\university\ооп\програми\5.1A\Point.h(12): message : см. объявление "Point::Point"
+Z:\university\ооп\програми\5.1A\Point.cpp(40,1): warning C5043: "operator >>": спецификация исключения не соответствует предыдущему объявлению
+Z:\university\ооп\програми\5.1A\Point.h(24): message : см. объявление "operator >>"
+  5.1A.vcxproj -> Z:\university\ооп\програми\5.1A\Debug\5.1A.exe

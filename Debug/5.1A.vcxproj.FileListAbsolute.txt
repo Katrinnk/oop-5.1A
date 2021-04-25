@@ -1,0 +1,2 @@
+Z:\university\ооп\програми\5.1A\Debug\5.1A.exe
+Z:\university\ооп\програми\5.1A\Debug\5.1A.pdb
